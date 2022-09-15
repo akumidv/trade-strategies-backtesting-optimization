@@ -1,0 +1,20 @@
+#yfinance
+#pandas_datareader
+
+matplotlib #==3.2.2
+seaborn
+plotly
+
+backtrader
+backtrader-plotting
+
+backtesting
+
+TA-Lib
+pandas_ta
+
+scikit-optimize
+hyperopt
+
+requests
+
