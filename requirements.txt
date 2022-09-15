@@ -1,7 +1,7 @@
 #yfinance
 #pandas_datareader
 
-matplotlib #==3.2.2
+matplotlib==3.2.2
 seaborn
 plotly
 
